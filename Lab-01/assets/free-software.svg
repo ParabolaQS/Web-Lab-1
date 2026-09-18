@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="320" viewBox="0 0 600 320">
+<rect width="600" height="320" fill="white"/>
+<rect x="40" y="50" width="520" height="220" rx="18" fill="#eeeeee" stroke="#222" stroke-width="4"/>
+<text x="300" y="130" text-anchor="middle" font-family="sans-serif" font-size="34" fill="#111">FREE SOFTWARE</text>
+<text x="300" y="180" text-anchor="middle" font-family="sans-serif" font-size="22" fill="#333">Run • Study • Share • Modify</text>
+<text x="300" y="225" text-anchor="middle" font-family="monospace" font-size="20" fill="#111">&gt; freedom_</text>
+</svg>
