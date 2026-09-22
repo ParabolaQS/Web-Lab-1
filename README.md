@@ -12,4 +12,4 @@ Portfolio/
     ├── gnu-terminal.svg    
     └── student-computer.svg
 ```
-## Almost faced no challange, this was basic HTML
+## Almost faced no challange, this was basic HTML but the I had problems with Markdown
