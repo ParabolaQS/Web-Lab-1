@@ -1,7 +1,7 @@
-#Amirmohammad Yahyazadeh
+# Amirmohammad Yahyazadeh
 
-
-daia_portfolio/
+```
+Portfolio/
 ├── index.html        # Home page and introduction
 ├── about.html        # About page
 ├── services.html     # Services page
@@ -11,5 +11,5 @@ daia_portfolio/
     ├── free-software.svg    
     ├── gnu-terminal.svg    
     └── student-computer.svg
-
-##Almost faced no challange, this was basic HTML
+```
+## Almost faced no challange, this was basic HTML
